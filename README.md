@@ -47,35 +47,35 @@ It is divided into four parts:
 ## Analysis
 
 1) Histograms representing Binned prices in Low, Medium, High
-![](figures/histograms.png)
+![](Figures/histograms.png)
 
 2) Boxplots representing effect of wheel frive with prices.
-![](figures/boxplots.png)
+![](Figures/boxplots.png)
 
 3) Scatter plot for Prices over Engine size
-![](figures/scatter.png)
+![](Figures/scatter.png)
 
 4) Pivot table categorizing wheel drive and body style with prices.
-![](figures/pivot.png)
+![](Figures/pivot.png)
 
 5) HeatMap with wheel drive in y axis and body style in x axis.
-![](figures/heatmap.png)
+![](Figures/heatmap.png)
 
 6) Positive Linear Relationship between engine size and price
-![](figures/positivelinear.png)
+![](Figures/positivelinear.png)
 
 7) Negetive Linear Relationship between highway-mpg and price
-![](figures/negetivelinear.png)
+![](Figures/negetivelinear.png)
 
 8) Weak Correlation between peak-rpm and price
-![](figures/weakcorrelation.png)
+![](Figures/weakcorrelation.png)
 
 
 9) Simple Linear Regression plot
-![](figures/Figure_2.png)
+![](Figures/Figure_2.png)
 
 10) Multiple Linear Regression plot
-![](figures/Figure_1.png)
+![](Figures/Figure_1.png)
 
 ## Conclusion
 
