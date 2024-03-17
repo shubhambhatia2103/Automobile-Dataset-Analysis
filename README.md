@@ -1,4 +1,3 @@
-
 ## Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Set
 
 In this project I'm trying to analyze and visualize the Used Car Prices from the dataset available at https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data in order to predict the most probable car price
@@ -83,4 +82,3 @@ It is divided into four parts:
 The distribution plot of Linear Regression and Multiple Regression technique shows how
 the model predicts the prices of automobiles based on "horsepower", "curb-weight", "engine-size" and "highway-mpg"
 <p>Comparing these three models, we conclude that <b>the MLR model is the best model</b> to be able to predict price from our dataset. This result makes sense, since we have 27 variables in total, and we know that more than one of those variables are potential predictors of the final car price.</p>
-
